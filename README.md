@@ -1,2 +1,2 @@
-# C-Algorithms
+# CPP-Algorithms
 Various C++ Algorithms
